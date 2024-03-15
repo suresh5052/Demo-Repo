@@ -1,1 +1,2 @@
 This file contains code
+This code helps to run the application
